@@ -1,4 +1,6 @@
 # words
 prose and whatnot
 
-all words herein are Copyright Mike Partelow
+[The Parable of Mike's Mirror](the_parable_of_mikes_mirror.md)
+
+all words in this repo are Copyright Mike Partelow, especially the dirty ones
