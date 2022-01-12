@@ -22,7 +22,7 @@ Also, I now save thousands[^1] of dollars a month on shampoo, and I can take a f
 
 ---
 
-2021/01/11
+2021/01/11  
 #writing
 
 [^1]: Off by 3 orders of magnitude, but the idea of saving tens of dollars isn't funny
