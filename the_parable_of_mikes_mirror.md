@@ -12,11 +12,11 @@ Something needed to change. I couldn't see my luxurious mane for its necessary p
 
 So I shaved off all my hair. Now I don't need to see myself at all after showering. Problem solved. 
 
-Also, I now save thousands[^Off by 3 orders of magnitude, but the idea of saving tens of dollars isn't funny.] of dollars a month on shampoo, and I can take a full wet-head shower right before bed. I can shower and go right outside when it's below freezing. I don't have to remember where I left the blow drier. I'm not even sure if I own one. I have started collecting fashionable hats. My scalp makes a calming sound when I rub  it. Scritsch, scritsch, scritschhhhhhhhh.
+Also, I now save thousands[^1] of dollars a month on shampoo, and I can take a full wet-head shower right before bed. I can shower and go right outside when it's below freezing. I don't have to remember where I left the blow drier. I'm not even sure if I own one. I have started collecting fashionable hats. My scalp makes a calming sound when I rub  it. Scritsch, scritsch, scritschhhhhhhhh.
 
 ## Takeaways
 
-- We can often sidestep a problem without addressing it head-on[^Get it?], particularly if we are willing to let go of some thing(s).
+- We can often sidestep a problem without addressing it head-on[^2], particularly if we are willing to let go of some thing(s).
 - Unanticipated side effects (massive shampoo cost savings) can end up being more impactful than intended effects (fog-agnostic mirror).
 - Don't believe everything you read.
 
@@ -24,3 +24,6 @@ Also, I now save thousands[^Off by 3 orders of magnitude, but the idea of saving
 
 2021/01/11
 #writing
+
+[^1]: Off by 3 orders of magnitude, but the idea of saving tens of dollars isn't funny
+[^2]: Get it?
