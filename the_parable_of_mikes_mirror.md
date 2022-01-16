@@ -22,7 +22,13 @@ Also, I now save thousands[^1] of dollars a month on shampoo, and I can take a f
 
 ---
 
-2021/01/11  
+## Update
+
+My beard has grown out, and it's a really good beard that requires frequent - and especially post-shower - styling. Back to square one.
+
+---
+
+2021/01/11, 2021/01/16
 #writing
 
 [^1]: Off by 3 orders of magnitude, but the idea of saving tens of dollars isn't funny
