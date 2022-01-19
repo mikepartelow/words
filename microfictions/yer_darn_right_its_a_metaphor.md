@@ -18,6 +18,6 @@ The universe halted. She could contract no more, stymied by a marble of hate fro
 
 ---
 
-499 words
-#microfiction
-2021/05/21
+499 words  
+#microfiction  
+2021/05/21  
