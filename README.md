@@ -1,9 +1,13 @@
 # words
 prose and whatnot
 
-## Fiction
+## Nanofiction
 
-[Ned's Opinions](neds_opinions.md)
+[Ned's Opinions](nanofictions/neds_opinions.md)
+
+## Microfiction
+
+[Yer Darn Right It's A Metaphor](microfictions/yer_darn_right_its_a_metaphor.md)
 
 ## Maybe not 100% Fictional
 
