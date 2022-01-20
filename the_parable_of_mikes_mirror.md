@@ -28,8 +28,11 @@ My beard has grown out, and it's a really good beard that requires frequent - an
 
 ---
 
-2021/01/11, 2021/01/16
-#writing
+2021/01/11, 2021/01/16  
+#writing  
+
 
 [^1]: Off by 3 orders of magnitude, but the idea of saving tens of dollars isn't funny
 [^2]: Get it?
+
+Copyright © 2022 by Mike Partelow. All Rights Reserved.  
