@@ -5,25 +5,32 @@ I reckon I may find out.
 
 ## Nanofiction
 
-> The point is to say a lot by saying very little.
+> Exercises Of Parsimony  
 
 2021/12/08 :: [Ned's Opinions](nanofictions/20211208_neds_opinions.md)  
 
 ## Microfiction
 
-> In 2021, I tasked myself with writing at least one piece of extremely short fiction every month.
-> I met my goal and extended the project through 2020. 
+> Good? Bad? I'm the guy with the GitHub.
 
 2021/02/18 :: [Fomos's Bogus Journey](microfictions/20210218_fomoss_bogus_journey.md)  
+2021/03/17 :: [The Penultimate Disillusionment](microfictions/20210317_the_penultimate_disillusionment.md)  
 2021/05/21 :: [Yer Darn Right It's A Metaphor](microfictions/20210521_yer_darn_right_its_a_metaphor.md)  
 2021/06/21 :: [Life Goes On](microfictions/20210621_life_goes_on.md)  
+2021/07/30 :: [PKD65](microfictions/20210730_pkd65.md)  
+2021/08/17 :: [No Way Out](microfictions/20210817_no_way_out.md)  
+2021/10/20 :: [Additional Charges May Apply](microfictions/20211020_additional_charges_may_apply.md)  
+2021/11/15 :: [Thinking About Nothing](microfictions/20211115_thinking_about_nothing.md)  
+2021/12/06 :: [The Last Shower](microfictions/20211206_the_last_shower.md)  
 
 ## Maybe not 100% Fictional
+
+> No Refunds
 
 2022/01/11 :: [The Parable of Mike's Mirror](etc/20220111_the_parable_of_mikes_mirror.md)
 
 ---
 
-_some stories rated "better than I expected" by leading literary critics_
+_some stories are "better than I expected", say leading literary critics_
 
 all words in this repo are Copyright © Mike Partelow, especially the dirty ones
