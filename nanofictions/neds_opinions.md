@@ -6,8 +6,8 @@ If he delivered eight more unique Opinion posts before Noon, earth.ai would dire
 
 ---
 
-#microfiction  
+39 words  
 #nanofiction  
-
 2021/12/08
-Copyright © 2022 by Mike Partelow. All Rights Reserved.  
+
+Copyright © 2021 by Mike Partelow. All Rights Reserved.  
