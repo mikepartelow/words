@@ -8,6 +8,7 @@ I reckon I may find out.
 > Exercises Of Parsimony  
 
 2021/12/08 :: [Ned's Opinions](nanofictions/20211208_neds_opinions.md)  
+2022/01/21 :: [Good Ted](nanofictions/20220121_good_ted.md)  
 
 ## Microfiction
 
