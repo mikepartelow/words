@@ -24,6 +24,7 @@ I reckon I may find out.
 2021/11/15 :: [Thinking About Nothing](microfictions/20211115_thinking_about_nothing.md)  
 2021/12/06 :: [The Last Shower](microfictions/20211206_the_last_shower.md)  
 2022/01/27 :: [TimeKeeper's Memory](microfictions/20220127_timekeepers_memory.md)  
+2022/02/19 :: [Slate](microfictions/20220219_slate.md)  
 
 ## Maybe not 100% Fictional
 
