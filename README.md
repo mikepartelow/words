@@ -25,6 +25,7 @@ I reckon I may find out.
 2021/12/06 :: [The Last Shower](microfictions/20211206_the_last_shower.md)  
 2022/01/27 :: [TimeKeeper's Memory](microfictions/20220127_timekeepers_memory.md)  
 2022/02/19 :: [Slate](microfictions/20220219_slate.md)  
+2022/03/31 :: [Maggot Brain](microfictions/20220331_maggot_brain.md)  
 
 ## Maybe not 100% Fictional
 
