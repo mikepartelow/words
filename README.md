@@ -26,6 +26,7 @@ I reckon I may find out.
 2022/01/27 :: [TimeKeeper's Memory](microfictions/20220127_timekeepers_memory.md)  
 2022/02/19 :: [Slate](microfictions/20220219_slate.md)  
 2022/03/31 :: [Maggot Brain](microfictions/20220331_maggot_brain.md)  
+2022/04/31 :: [Do Androids Gaze At Electric Navels?](microfictions/20220431_do_androids_gaze_at_electric_navels.md)  
 
 ## Maybe not 100% Fictional
 
