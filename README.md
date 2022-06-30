@@ -28,6 +28,7 @@ I reckon I may find out.
 2022/03/31 :: [Maggot Brain](microfictions/20220331_maggot_brain.md)  
 2022/04/31 :: [Do Androids Gaze At Electric Navels?](microfictions/20220431_do_androids_gaze_at_electric_navels.md)  
 2022/05/31 :: [Revision 23](microfictions/20220531_revision_23.md)  
+2022/06/30 :: [Gravestone, Season 1](microfictions/20220630_gravestone_season_1.md)  
 
 ## Maybe not 100% Fictional
 
