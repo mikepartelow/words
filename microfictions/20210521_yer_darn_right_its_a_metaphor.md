@@ -12,7 +12,7 @@ As the universe became smaller and smaller, as everything inside the universe go
 
 The universe became very small in her old age, almost as small as when she was young. As everything inside her compressed and concentrated and distilled, as the stars went cold and dark, she found she was now home to creatures who produced only anger, despair, dark nightmares and shrieks in place of dreams and ballads. They howled in rage as compounding gravity made them more potently present in the collapsing universe.
 
-The universe realized she had very little time left. Near her final moments, she felt the angry creatures compressed by irresistible gravity into a ball of cold rage, more dense than any object she had ever contained, colder than emptiness. It obstructed her. The irritable force of the universe's contraction met the immovable object of the densely compacted anger and rage that had grown within her, unnoticed, over her life.
+The universe realized she had very little time left. Near her final moments, she felt the angry creatures compressed by irresistible gravity into a ball of cold rage, more dense than any object she had ever contained, colder than emptiness. It obstructed her. The irresistible force of the universe's contraction met the immovable object of the densely compacted anger and rage that had grown within her, unnoticed, over her life.
 
 The universe halted. She could contract no more, stymied by a marble of hate from achieving final collapse. She could not explode again into a new universe reborn, full of wondrous creatures and objects, as she had done countless times before. Her cycle was ended. She was dark, and cold, and completely still, and sad.
 
